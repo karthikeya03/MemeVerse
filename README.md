@@ -169,5 +169,5 @@ Follow the on-screen instructions to link your project.
 
 ---
 
-For any queries, contact: **[your.email@example.com](mailto\:saisatyakarthikeya@gmail.com)**
+For any queries, contact: **[Gmail](mailto\:saisatyakarthikeya@gmail.com)**
 
